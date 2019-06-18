@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="NeedIt" language="en" table="x_370757_need_it_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>NeedIt</label>
+            <language>en</language>
+            <name>x_370757_need_it_needit</name>
+            <plural>NeedIts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-18 14:30:30</sys_created_on>
+            <sys_id>fed700fedb023300d56685184b961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NeedIt</sys_name>
+            <sys_package display_value="Need It" source="x_370757_need_it">c47c3b62db023300d56685184b9619f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Need It">c47c3b62db023300d56685184b9619f4</sys_scope>
+            <sys_update_name>sys_documentation_x_370757_need_it_needit__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-18 14:30:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
